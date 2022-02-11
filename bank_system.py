@@ -1,4 +1,3 @@
-#Kyle Frommelt 12-2-21 bank_class.py
 import random
 import account_creator
 import os
