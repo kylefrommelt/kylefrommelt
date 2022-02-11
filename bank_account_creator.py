@@ -1,4 +1,3 @@
-#Kyle Frommelt 12-2-21 account_creator.py
 import random
 import os
 import time
